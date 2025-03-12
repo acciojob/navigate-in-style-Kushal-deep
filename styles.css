@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
+ul{
+	display:flex;
+}
 ul li{
 	list-style:none;
-	display:flex;
+	display:inline;
 	margin-right:1rem;
 	
 }
