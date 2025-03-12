@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 ul li{
 	list-style:none;
-	display:inline;
+	display:flex;
 	margin-right:1rem;
 	
 }
